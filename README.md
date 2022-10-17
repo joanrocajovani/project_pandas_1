@@ -7,9 +7,9 @@ For the first project of the bootcamp in data analytics I will analyze a table c
 This is a particularly interesting topic for me because when I was a child I remember watching an episode of CSI: Miami where a victim was killed by a shark.
 From that moment I have always had a fear of sharks and when in 2020 I visited Miami I saw sharks from a boat and I was afraid as hell.
 
-First I will clean the table since it has over 25k rows and over 20 columns and many of them will not be of any use.
+First I cleaned the table since it had over 25k rows and over 20 columns and many of them were not of any use.
 
-When the dataframe is clean I will proceed to analyze it trying to prove some hypothesis and finally, I wil try to find the most dangerous spot to perform an Ironman (which is a dream of mine).
+When the dataframe was clean I proceeded to analyze it trying to prove some hypothesis and finally, I tried to find the most dangerous spot to perform an Ironman (which is a dream of mine).
 
 The hypothesis are the following:
 
@@ -128,7 +128,7 @@ Also interesting to see that very few women suffer attacks when fishing, which m
 
 __Hypothesis 5: 50% of the attacks are suffered by people between 18 and 30.__
 The hypothesis is wrong, but some ideas were right. The 25th percentile is exactly 18 years old which was what I expected, the issue is that the 75th percentile is 37 years old, which is over what I expected.
-If we analyze the age distribution by activities we can see that even if the attacks when surfing and swimming decrease after 30 years old, fishing and water sports decrease a little bit later
+If we analyze the age distribution by activities we can see that even if the attacks when surfing and swimming decrease after 30 years old, fishing and water sports decrease a little bit later.
 Another thing that I think should be said is that even if the number of attacks goes down after 30 years old, the number of fatal accidents does not decrease as much, this might be because younger people have more chances of surviving.
 <img src="images/Screenshots/Attacksage.png" width="500" height="300">
 <img src="images/Screenshots/ageactivity.png" width="500" height="300">
@@ -144,3 +144,6 @@ So the day that I decide to do the Ironman, I certainly know where not to go.
 <img src="images/Screenshots/swimage.png" width="500" height="300">
 <img src="images/Screenshots/swimcountries.png" width="500" height="300">
 <img src="images/Screenshots/swimstates.png" width="500" height="300">
+
+## Conclusion
+It has been the first time that I have worked with Python in such a project and it has been very challenging. Some hypothesis were accurate and some were not but the most important thing was to get my hands on the Python for a analytics project for the first time and start analyzing data with it.
