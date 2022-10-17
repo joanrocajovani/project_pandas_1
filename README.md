@@ -1,6 +1,7 @@
-# project_pandas_1
+# Project 1: Shark Attacks
 ### Author: Joan Roca Jovani
 
+<img src="images/Screenshots/babyshark.png" width="300" height="400">
 ## Introduction
 For the first project of the bootcamp in data analytics I will analyze a table consisting in all shark attacks reported ever.
 This is a particularly interesting topic for me because when I was a child I remember watching an episode of CSI: Miami where a victim was killed by a shark.
